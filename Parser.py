@@ -1,8 +1,8 @@
-# File:        PleaseRespond.py
+# File:        Parser.py
 # Author:      Lucas Smallcomb
 # Email:       lucas.smallcomb@gmail.com
 # Description: An HTTP datastream analysis program.
-# Input:       HTTP data found at https://www.meetup.com/UXSpeakeasy/events/258247836/
+# Input:       HTTP data streamed from https://www.meetup.com/UXSpeakeasy/events/258247836/
 # Output:      Console output of definition {total, future_date, future_url, co_1, 
 #              co_1_count, co_2, co_2_count, co_3, co_3_count}
 # Dev Info:    Python 3.7, Anaconda 3 distribution (PIP built-in)
