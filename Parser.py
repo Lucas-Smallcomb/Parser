@@ -1,9 +1,7 @@
 # File:        PleaseRespond.py
 # Author:      Lucas Smallcomb
 # Email:       lucas.smallcomb@gmail.com
-# Description: An HTTP datastream analysis program for Enlighten IT Consulting. This 
-#              program is a solution to the "Please Respond" coding prompt found at 
-#              https://gitlab.com/enlighten-challenge/please-respond
+# Description: An HTTP datastream analysis program.
 # Input:       HTTP data found at https://www.meetup.com/UXSpeakeasy/events/258247836/
 # Output:      Console output of definition {total, future_date, future_url, co_1, 
 #              co_1_count, co_2, co_2_count, co_3, co_3_count}
